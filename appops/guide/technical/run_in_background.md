@@ -30,6 +30,4 @@ Https://developer.android.com/topic/performance/power/power-details
 
 Some of the commits involved:
 
-Https://github.com/aosp-mirror/platform_frameworks_base/commit/3ac1daac4044c70ad4ee673214074306de499a18
-
-Https://github.com/aosp-mirror/platform_frameworks_base/commit/db6bf66ee3b82edf25874d5dea4e02b0a146fb16
+Https://github.com/aosp-mirror/platform_frameworks_base/commit/3ac1daac4044c70ad4ee673214074306de499a18Sometps://github.com/aosp-mirror/platform_frameworks_base/commit/db6bf66ee3b82edf25874d5dea4e02b0a146fb16
